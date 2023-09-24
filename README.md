@@ -1,6 +1,5 @@
 # Android ToDo App
 
-![Your App Logo or Screenshot (if available)](app-screenshot.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
